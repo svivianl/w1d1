@@ -5,4 +5,7 @@
 
 ## Summary
 
-This repository have the notes taken by [Viviane](https://github.com/vshibukawa) for the [bootcamp] (https://lighthouselabs.ca).
+This repository have the notes taken by [Viviane](https://github.com/vshibukawa) for the [bootcamp](https://lighthouselabs.ca).
+
+* Week 1
+  * Day 1
